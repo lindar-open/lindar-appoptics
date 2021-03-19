@@ -6,7 +6,7 @@
 
     <groupId>com.lindar</groupId>
     <artifactId>appoptics</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
 
     <name>AppOptics</name>
     <description>Adds additional instrumentation for AppOptics using Aspects</description>
